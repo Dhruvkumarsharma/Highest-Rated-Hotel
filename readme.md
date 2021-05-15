@@ -1,4 +1,5 @@
 Find Highest Rated Hotel
+
 Automation project for #PepHack Hackathon. I created an automation project to automatically fetch the best rated hotel and make the route file, about hotel file , ss of that hotel, and map for you.
 Getting Started
 Just run on your terminal => node <fileName> <yourLocation> <destinationLocation>
